@@ -27,6 +27,6 @@
     "tape": "^4.6.2"
   },
   "dependencies": {
-    "loader-utils": "^1.4.1"
+    "loader-utils": "^1.4.2"
   }
 }
