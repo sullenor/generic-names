@@ -1,6 +1,6 @@
 {
   "name": "afront-generic-names",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Helper for building generic names, similar to webpack",
   "main": "index.js",
   "types": "index.d.ts",
