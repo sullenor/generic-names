@@ -1,5 +1,5 @@
 {
-  "name": "generic-names",
+  "name": "afront-generic-names",
   "version": "4.0.0",
   "description": "Helper for building generic names, similar to webpack",
   "main": "index.js",
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/css-modules/generic-names#readme",
   "devDependencies": {
+    "patch-package": "^8.0.0",
     "tape": "^4.6.2"
   },
   "dependencies": {
